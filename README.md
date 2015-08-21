@@ -8,13 +8,13 @@ You may submit a pull request if you would like to contribute.
 
 ## Library of Documents
 We are hoping to upload the following documents over the next few weeks
-* Non Disclosure Agreemenet 
-* Non Disclosure + Non Complete Agreement
-* Advisor Agreement
+* Non Disclosure Agreement
+* [Non Disclosure + Non Complete Agreement](non-disclosure-non-compete.md)
+* Adviser Agreement
 * Convertible Debt Note
 * S Corporation Bylaws
 * LLC Corporation Operating Agreement
-* Senior Debt Note
+* Senior Debt Note!
 * Investor Agreement
 * Contractor Contract
 * Website Development Contract
